@@ -1,2 +1,3 @@
 some configuration 
 adding some additional information
+editing some information 
