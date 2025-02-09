@@ -1,1 +1,2 @@
 some configuration 
+adding some additional information
